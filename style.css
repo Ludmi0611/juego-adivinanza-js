@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(50, 52, 56);
+    font-family:monospace;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+} 
+input{
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 1rem;
+    border: none;
+}
+button{
+    padding: 1rem;
+    font-size: 1rem;
+    border-radius: 1rem;
+    border:none;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(10, 151, 128);
+    color: aliceblue;
+}
+
